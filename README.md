@@ -3,6 +3,13 @@
 
 CranioRegen is an advanced AI-driven solution designed to automate the complex process of cranial defect reconstruction. By leveraging U-Net for precise cranial bone segmentation and Generative Adversarial Networks (GANs) for custom implant generation, this pipeline significantly enhances the accuracy and efficiency of surgical planning.
 
+
+
+### Raw CT Scan
+![CranioRegen Demo](https://github.com/NayakSubhransu/CranioRegen/blob/main/RAW_CT_SCAN.gif)
+
+
+### Extracted BoneStructure From CT Scan
 ![CranioRegen Demo](https://github.com/NayakSubhransu/CranioRegen/blob/main/ExtractedBone_CT.gif)
 
 ### 🚀 Key Achievements:
